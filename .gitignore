@@ -4,5 +4,4 @@ dist
 .next
 .env
 
-apps
 .nx/cache
